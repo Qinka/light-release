@@ -6,6 +6,9 @@ Photom is a bluetooth-based shutter release and has some RGB LEDs for light pain
 
 ------------
 
-LED bar prototype
+LED bar prototype V2 (with APA102)
 
-![](figures/prototype.png)
+![](figures/prototype-a.png)
+
+
+![](figures/prototype-b.png)
